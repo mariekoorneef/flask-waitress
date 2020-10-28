@@ -12,7 +12,9 @@ curl "http://0.0.0.0:5000/?number=2"
 ```
 
 ## Stop/ remove containers
-
+```sh
+./stop.sh
+```
 
 
 ### References

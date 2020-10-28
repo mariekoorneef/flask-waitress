@@ -17,7 +17,7 @@ curl "http://0.0.0.0:5000/?number=2"
 ```
 
 
-### References
+### References/ alternatives
 - Docker docs [Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 - Flask [Deploy to Production](https://flask.palletsprojects.com/en/1.1.x/tutorial/deploy/)
     ```sh
@@ -25,3 +25,4 @@ curl "http://0.0.0.0:5000/?number=2"
     web_1  |    Use a production WSGI server instead.
     ```
 - Alternatively use [FastAPI](https://fastapi.tiangolo.com/)
+- ...
